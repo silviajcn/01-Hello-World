@@ -1,21 +1,21 @@
-# Hello world
+# 🌎 Hello world
 
 * **Seccion**: 2
 * Ejercicio 1
 
-## Visit here: https://silviajcn.github.io/Hello-World/
+## 🖱️ Visit here: https://silviajcn.github.io/Hello-World/
 
-## Proyecto
+## 📁 Proyecto
 
 * HTML
 * CSS
 * React CDN
 
-## Hello world
+## 😍 Hello world
 
 ![hw](https://user-images.githubusercontent.com/88461234/164359474-c75cdaab-df07-4bea-9791-c5e5e09af740.png)
 
-## Autor
+## 😎 Autor
 
 * **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
 * **Mi portafolio** - [Mi portafolio](https://silviajcn.vercel.app/)
