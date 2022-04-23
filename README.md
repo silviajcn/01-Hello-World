@@ -3,7 +3,7 @@
 * **Seccion**: 2
 * Ejercicio 1
 
-## 🖱️ Visit here: https://silviajcn.github.io/Hello-World/
+## 🖱️ Visit here: https://silviajcn.github.io/01-Hello-World/
 
 ## 📁 Proyecto
 
